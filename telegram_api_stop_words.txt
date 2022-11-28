@@ -565,3 +565,4 @@ forms.gle
 garant+
 плачут 1
 приватні повідомлення
+telegram.me
