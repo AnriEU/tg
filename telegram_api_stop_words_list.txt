@@ -1,1 +1,1 @@
-{"results":[{"type":"0","text":"в личные"},{"type":"0","word":"личныe сooбщeния"}]}
+{"results":[{"type":0,"text":"в личные"},{"type":0,"text":"личные сooбщeния"}]}
