@@ -1,1 +1,1 @@
-{"results":[{"type":0,"text":"в личные"},{"type":0,"text":"личные сooбщeния"},{"type":0,"text":"личные сообщения"},{"type":0,"text":"личныe cooбщeния"},{"type":0,"text":"личные cooбщeния"},{"type":0,"text":"личные cообщeния"},{"type":0,"text":"личныe сoобщeния"}]}
+{"results":[{"type":0,"text":"в личные"},{"type":0,"text":"личные сooбщeния"},{"type":0,"text":"личные сообщения"},{"type":0,"text":"личныe cooбщeния"},{"type":0,"text":"личные cooбщeния"},{"type":0,"text":"личные cообщeния"},{"type":0,"text":"личныe сoобщeния"},{"type":0,"text":"личныe cooбщения"}]}
