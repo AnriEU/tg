@@ -1,0 +1,1 @@
+{"results":[{"userId":"1087968824","userName":"GroupAnonymousBot","first_name":"Group","last_name":"","language_code":"","chat_id":"0","verified":0}]}
