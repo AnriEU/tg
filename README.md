@@ -4,20 +4,20 @@ Files for telegram content management bot https://t.me/content_management_bot_te
 ✅ Content management bot
 
 🔸Functions:<br>
-🔹AntiSpam
-🔹Left chat member
-🔹New chat member
+🔹AntiSpam<br>
+🔹Left chat member<br>
+🔹New chat member<br>
 
-🔸Commands:
-🔹GetMe
-🔹GetChat
-🔹GetUserId
-🔹GetAdmins
-🔹AdminVerification
-🔹SetMainAdmin
-🔹GetWhitelist
-🔹AddToWhitelist
-🔹SetWelcomeMessage
-🔹GetLanguagesList
-🔹SetChatLanguage
+🔸Commands:<br>
+🔹GetMe<br>
+🔹GetChat<br>
+🔹GetUserId<br>
+🔹GetAdmins<br>
+🔹AdminVerification<br>
+🔹SetMainAdmin<br>
+🔹GetWhitelist<br>
+🔹AddToWhitelist<br>
+🔹SetWelcomeMessage<br>
+🔹GetLanguagesList<br>
+🔹SetChatLanguage<br>
 🔹CopyAllMessages
