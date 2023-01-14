@@ -3,7 +3,7 @@ Files for telegram content management bot https://t.me/content_management_bot_te
 
 ✅ Content management bot
 
-🔸Functions:\n
+🔸Functions:<br>
 🔹AntiSpam
 🔹Left chat member
 🔹New chat member
