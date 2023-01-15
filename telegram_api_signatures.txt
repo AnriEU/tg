@@ -1,0 +1,1 @@
+{"results":[{"user_id":"1667503215","text":"My test <a href=tg://user?id=123456789>signature</a>"}]}
