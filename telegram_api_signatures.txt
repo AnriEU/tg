@@ -1,1 +1,1 @@
-{"results":[{"user_id":"1","text":"My test signature"},{"user_id":"1667503215","text":"Signature test here"}]}
+{"results":[{"user_id":"1","text":"My test signature"}]}
