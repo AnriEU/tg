@@ -1,1 +1,1 @@
-{"results":[{"type":"English idioms","chat_id":"-1001700368615","one":null,"two":null,"time":"70","last_time":"0","last_id":"","remove":"true"}]}
+{"results":[{"type":"English idioms","chat_id":"-1001700368615","one":null,"two":null,"time":"70","last_time":"1675078948","last_id":"1295","remove":"true"}]}
