@@ -1,0 +1,1 @@
+{"results":[{"type":"SK quiz","chat_id":"-1001754356412","time":"60","last_time":"0","last_id":"","remove":"false","anonymous":"true","topic":14929}]}
