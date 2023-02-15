@@ -1,0 +1,1 @@
+{"results":[{"type":"idiomsentoru","chat_id":"-1001687032083","time":"60","last_time":"0","last_id":"","remove":"false","anonymous":null,"topic":5862,"lang":null}]}
