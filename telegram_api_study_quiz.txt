@@ -1,1 +1,1 @@
-{"results":[{"type":"sk_language_quiz","chat_id":"-1001754356412","time":"3600","last_time":"1676502098","last_id":"16724","remove":"false","anonymous":"true","topic":14929,"lang":"sk"}]}
+{"results":[{"type":"sk_language_quiz","chat_id":"-1001754356412","time":"3600","last_time":"1676509418","last_id":"16734","remove":"false","anonymous":"true","topic":14929,"lang":"sk"}]}
