@@ -1,1 +1,1 @@
-{"results":[{"chat":5967,"stopWords":2317,"advertisingVar":0,"phrases":173,"signatures":19}]}
+{"results":[{"chat":5968,"stopWords":2317,"advertisingVar":0,"phrases":173,"signatures":19}]}
