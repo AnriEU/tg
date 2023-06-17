@@ -1,1 +1,1 @@
-{"results":[{"userId":"5438256892","userName":" Ashley Bishop","wordType":7,"word":"kа","message":"okаy, yоu convїncеd mе","chatTableId":"-1001486096882"}]}
+{"results":[{"userId":"5438256892","userName":" Ashley Bishop","wordType":7,"word":"kа","message":"okаy, yоu convїncеd mе","chatTableId":"-1001486096882"},{"userId":"1180617920","userName":" Aamir Suhail","wordType":4,"word":"t.me","message":"https://t.me/Payal_com","chatTableId":"-1001486096882"}]}
