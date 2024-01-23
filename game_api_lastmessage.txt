@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198985346222","steamUserName":"Games For Pleasure","steamUserLevel":0,"steamUserLargeAvatarId":472,"messageTypeId":5,"messageIsAdult":1,"otherText":"hana","gameName":"Scifi_builder","gameId":"2438540"}]}
+{"results":[{"steamUserId":"76561198985346222","steamUserName":"Games For Pleasure","steamUserLevel":0,"steamUserLargeAvatarId":472,"messageTypeId":9,"messageIsAdult":0,"otherText":"ally","gameName":"Scifi_builder","gameId":"2438540"}]}
