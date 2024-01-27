@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561197986429496","steamUserName":"Komando Cerril","steamUserLevel":0,"steamUserLargeAvatarId":286,"messageTypeId":5,"messageIsAdult":1,"otherText":"california girl","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561197986429496","steamUserName":"Komando Cerril","steamUserLevel":0,"steamUserLargeAvatarId":286,"messageTypeId":8,"messageIsAdult":1,"otherText":"california girl","gameName":"Sex_motel","gameId":"2773570"}]}
