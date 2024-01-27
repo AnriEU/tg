@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199626161238","steamUserName":"myslee.extasy","steamUserLevel":0,"steamUserLargeAvatarId":3,"messageTypeId":5,"messageIsAdult":1,"otherText":"albina","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
+{"results":[{"steamUserId":"76561198985346222","steamUserName":"Games For Pleasure","steamUserLevel":18,"steamUserLargeAvatarId":472,"messageTypeId":0,"messageIsAdult":1,"otherText":"","gameName":"Sex_motel","gameId":"2773570"}]}
