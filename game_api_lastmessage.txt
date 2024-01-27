@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198051458586","steamUserName":"박곰탕","steamUserLevel":0,"steamUserLargeAvatarId":28,"messageTypeId":6,"messageIsAdult":1,"otherText":"Hana","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198051458586","steamUserName":"박곰탕","steamUserLevel":0,"steamUserLargeAvatarId":28,"messageTypeId":5,"messageIsAdult":1,"otherText":"Hana","gameName":"Sex_motel","gameId":"2773570"}]}
