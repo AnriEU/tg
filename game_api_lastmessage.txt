@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198985346222","steamUserName":"Games For Pleasure","steamUserLevel":0,"steamUserLargeAvatarId":472,"messageTypeId":2,"messageIsAdult":0,"otherText":"albina","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198000208556","steamUserName":"damiengf","steamUserLevel":11,"steamUserLargeAvatarId":3,"messageTypeId":0,"messageIsAdult":1,"otherText":"","gameName":"Sex_motel","gameId":"2773570"}]}
