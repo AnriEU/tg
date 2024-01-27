@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198008686002","steamUserName":"kor707","steamUserLevel":0,"steamUserLargeAvatarId":8,"messageTypeId":2,"messageIsAdult":0,"otherText":"azumyby","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198008686002","steamUserName":"kor707","steamUserLevel":0,"steamUserLargeAvatarId":8,"messageTypeId":2,"messageIsAdult":0,"otherText":"survivor girl 4","gameName":"Sex_motel","gameId":"2773570"}]}
