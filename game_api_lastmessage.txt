@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198342883180","steamUserName":"tirandragon","steamUserLevel":0,"steamUserLargeAvatarId":16,"messageTypeId":2,"messageIsAdult":0,"otherText":"naked asian","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198342883180","steamUserName":"tirandragon","steamUserLevel":0,"steamUserLargeAvatarId":16,"messageTypeId":2,"messageIsAdult":0,"otherText":"pbr female","gameName":"Sex_motel","gameId":"2773570"}]}
