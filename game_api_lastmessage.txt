@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198287901681","steamUserName":"antdp1997","steamUserLevel":0,"steamUserLargeAvatarId":12,"messageTypeId":6,"messageIsAdult":1,"otherText":"albina","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198310361874","steamUserName":"遺憾嗎","steamUserLevel":0,"steamUserLargeAvatarId":82,"messageTypeId":2,"messageIsAdult":0,"otherText":"school girl dirt 2","gameName":"Sex_motel","gameId":"2773570"}]}
