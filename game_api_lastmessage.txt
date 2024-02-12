@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198452919894","steamUserName":"SMUG PUG  >.<","steamUserLevel":22,"steamUserLargeAvatarId":386,"messageTypeId":2,"messageIsAdult":0,"otherText":"california girl2","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198452919894","steamUserName":"SMUG PUG  >.<","steamUserLevel":22,"steamUserLargeAvatarId":386,"messageTypeId":2,"messageIsAdult":0,"otherText":"iselda","gameName":"Sex_motel","gameId":"2773570"}]}
