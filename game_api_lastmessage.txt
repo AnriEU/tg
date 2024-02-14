@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199472084678","steamUserName":"error_system","steamUserLevel":1,"steamUserLargeAvatarId":8,"messageTypeId":0,"messageIsAdult":1,"otherText":"","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
+{"results":[{"steamUserId":"76561198868365167","steamUserName":"SAKISAKURA_咲","steamUserLevel":0,"steamUserLargeAvatarId":-1,"messageTypeId":0,"messageIsAdult":1,"otherText":"","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
