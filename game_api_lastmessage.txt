@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198426524983","steamUserName":"BarSax.麦","steamUserLevel":15,"steamUserLargeAvatarId":94,"messageTypeId":5,"messageIsAdult":1,"otherText":"ayaka","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198426524983","steamUserName":"BarSax.麦","steamUserLevel":15,"steamUserLargeAvatarId":94,"messageTypeId":8,"messageIsAdult":1,"otherText":"ayaka","gameName":"Sex_motel","gameId":"2773570"}]}
