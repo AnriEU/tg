@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198049082593","steamUserName":"FrozenPsi","steamUserLevel":21,"steamUserLargeAvatarId":3,"messageTypeId":3,"messageIsAdult":1,"otherText":"sasquatch female","gameName":"Scifi_builder","gameId":"2438540"}]}
+{"results":[{"steamUserId":"76561199080128503","steamUserName":"杨","steamUserLevel":0,"steamUserLargeAvatarId":3,"messageTypeId":1,"messageIsAdult":0,"otherText":"Detective appointments","gameName":"Sex_motel","gameId":"2773570"}]}
