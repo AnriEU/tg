@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198426524983","steamUserName":"BarSax.麦","steamUserLevel":0,"steamUserLargeAvatarId":94,"messageTypeId":1,"messageIsAdult":0,"otherText":"Detective appointments","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198817380934","steamUserName":"啊喵","steamUserLevel":6,"steamUserLargeAvatarId":42,"messageTypeId":6,"messageIsAdult":1,"otherText":"Aura","gameName":"Sex_motel","gameId":"2773570"}]}
