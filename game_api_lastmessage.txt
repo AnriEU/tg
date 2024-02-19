@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198336790671","steamUserName":"林城花园张胤强","steamUserLevel":25,"steamUserLargeAvatarId":130,"messageTypeId":1,"messageIsAdult":0,"otherText":"Weapon room","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198336790671","steamUserName":"林城花园张胤强","steamUserLevel":25,"steamUserLargeAvatarId":130,"messageTypeId":5,"messageIsAdult":1,"otherText":"jamal","gameName":"Sex_motel","gameId":"2773570"}]}
