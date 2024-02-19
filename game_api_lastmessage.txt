@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198119844111","steamUserName":"DANCINGDOLL [JP]","steamUserLevel":60,"steamUserLargeAvatarId":94,"messageTypeId":0,"messageIsAdult":1,"otherText":"","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198119844111","steamUserName":"DANCINGDOLL [JP]","steamUserLevel":60,"steamUserLargeAvatarId":94,"messageTypeId":1,"messageIsAdult":0,"otherText":"B4","gameName":"Sex_motel","gameId":"2773570"}]}
