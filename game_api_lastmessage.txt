@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198108684152","steamUserName":"santa_astur","steamUserLevel":0,"steamUserLargeAvatarId":3,"messageTypeId":1,"messageIsAdult":0,"otherText":"Prison cell 03","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561199152105198","steamUserName":"bakyred","steamUserLevel":3,"steamUserLargeAvatarId":3,"messageTypeId":9,"messageIsAdult":0,"otherText":"ogre","gameName":"Scifi_builder","gameId":"2438540"}]}
