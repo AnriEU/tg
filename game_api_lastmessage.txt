@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199590484334","steamUserName":"mac.runner","steamUserLevel":1,"steamUserLargeAvatarId":6,"messageTypeId":4,"messageIsAdult":1,"otherText":"albina","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198031333780","steamUserName":"teareese","steamUserLevel":0,"steamUserLargeAvatarId":20,"messageTypeId":10,"messageIsAdult":1,"otherText":"Dildo 01 Pink A","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
