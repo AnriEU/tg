@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199515138900","steamUserName":"玄机备忘录","steamUserLevel":1,"steamUserLargeAvatarId":6,"messageTypeId":4,"messageIsAdult":1,"otherText":"gabriel","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561199487920207","steamUserName":"spydamitch","steamUserLevel":0,"steamUserLargeAvatarId":458,"messageTypeId":5,"messageIsAdult":1,"otherText":"lori","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
