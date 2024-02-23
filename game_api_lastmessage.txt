@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199515138900","steamUserName":"玄机备忘录","steamUserLevel":1,"steamUserLargeAvatarId":6,"messageTypeId":2,"messageIsAdult":0,"otherText":"lori","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561199515138900","steamUserName":"玄机备忘录","steamUserLevel":1,"steamUserLargeAvatarId":6,"messageTypeId":1,"messageIsAdult":0,"otherText":"Interrogation room B1","gameName":"Sex_motel","gameId":"2773570"}]}
