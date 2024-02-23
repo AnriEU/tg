@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199487920207","steamUserName":"spydamitch","steamUserLevel":0,"steamUserLargeAvatarId":458,"messageTypeId":6,"messageIsAdult":1,"otherText":"lori","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
+{"results":[{"steamUserId":"76561199487920207","steamUserName":"spydamitch","steamUserLevel":0,"steamUserLargeAvatarId":458,"messageTypeId":4,"messageIsAdult":1,"otherText":"lori","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
