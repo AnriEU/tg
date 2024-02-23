@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198278719625","steamUserName":"deathtrance","steamUserLevel":0,"steamUserLargeAvatarId":48,"messageTypeId":4,"messageIsAdult":1,"otherText":"Ghalen","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
+{"results":[{"steamUserId":"76561199515138900","steamUserName":"玄机备忘录","steamUserLevel":1,"steamUserLargeAvatarId":6,"messageTypeId":0,"messageIsAdult":1,"otherText":"","gameName":"Sex_motel","gameId":"2773570"}]}
