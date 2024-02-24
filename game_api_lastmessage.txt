@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199389146715","steamUserName":"神域龙将","steamUserLevel":6,"steamUserLargeAvatarId":6,"messageTypeId":9,"messageIsAdult":0,"otherText":"Hina","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561199389146715","steamUserName":"神域龙将","steamUserLevel":6,"steamUserLargeAvatarId":6,"messageTypeId":1,"messageIsAdult":0,"otherText":"Prison cell 03","gameName":"Sex_motel","gameId":"2773570"}]}
