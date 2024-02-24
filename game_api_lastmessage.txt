@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198083790860","steamUserName":"櫻京塚大","steamUserLevel":12,"steamUserLargeAvatarId":8,"messageTypeId":1,"messageIsAdult":0,"otherText":"Front desk","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198083790860","steamUserName":"櫻京塚大","steamUserLevel":12,"steamUserLargeAvatarId":8,"messageTypeId":9,"messageIsAdult":0,"otherText":"Hina","gameName":"Sex_motel","gameId":"2773570"}]}
