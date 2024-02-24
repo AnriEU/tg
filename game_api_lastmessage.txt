@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198401227911","steamUserName":"星星喵","steamUserLevel":0,"steamUserLargeAvatarId":36,"messageTypeId":8,"messageIsAdult":1,"otherText":"jamal","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198401227911","steamUserName":"星星喵","steamUserLevel":0,"steamUserLargeAvatarId":36,"messageTypeId":1,"messageIsAdult":0,"otherText":"Detective appointments","gameName":"Sex_motel","gameId":"2773570"}]}
