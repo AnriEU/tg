@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198053080926","steamUserName":"ПОЛКОВНИК","steamUserLevel":0,"steamUserLargeAvatarId":6,"messageTypeId":5,"messageIsAdult":1,"otherText":"succubus female 3","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198866234900","steamUserName":"VictorCGames18","steamUserLevel":0,"steamUserLargeAvatarId":-1,"messageTypeId":9,"messageIsAdult":0,"otherText":"Rupert","gameName":"Sex_motel","gameId":"2773570"}]}
