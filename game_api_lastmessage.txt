@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198320098987","steamUserName":"wwww","steamUserLevel":7,"steamUserLargeAvatarId":24,"messageTypeId":1,"messageIsAdult":0,"otherText":"office","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198320098987","steamUserName":"wwww","steamUserLevel":7,"steamUserLargeAvatarId":24,"messageTypeId":1,"messageIsAdult":0,"otherText":"Fitness hall","gameName":"Sex_motel","gameId":"2773570"}]}
