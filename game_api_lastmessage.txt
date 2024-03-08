@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198023059237","steamUserName":"death76","steamUserLevel":0,"steamUserLargeAvatarId":8,"messageTypeId":3,"messageIsAdult":1,"otherText":"albina","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198023059237","steamUserName":"death76","steamUserLevel":0,"steamUserLargeAvatarId":8,"messageTypeId":2,"messageIsAdult":0,"otherText":"naked asian","gameName":"Sex_motel","gameId":"2773570"}]}
