@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199465459875","steamUserName":"dimfirst15","steamUserLevel":0,"steamUserLargeAvatarId":6,"messageTypeId":1,"messageIsAdult":0,"otherText":"B6","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198260442725","steamUserName":"lock shock","steamUserLevel":0,"steamUserLargeAvatarId":66,"messageTypeId":6,"messageIsAdult":1,"otherText":"albina","gameName":"Sex_motel","gameId":"2773570"}]}
