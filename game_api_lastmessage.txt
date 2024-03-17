@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198103747395","steamUserName":"Scaneg","steamUserLevel":9,"steamUserLargeAvatarId":6,"messageTypeId":1,"messageIsAdult":0,"otherText":"Captains ofifce","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198103747395","steamUserName":"Scaneg","steamUserLevel":9,"steamUserLargeAvatarId":6,"messageTypeId":0,"messageIsAdult":1,"otherText":"","gameName":"Sex_motel","gameId":"2773570"}]}
