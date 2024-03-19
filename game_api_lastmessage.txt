@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198020520246","steamUserName":"Headcrab Rommel","steamUserLevel":77,"steamUserLargeAvatarId":422,"messageTypeId":10,"messageIsAdult":1,"otherText":"Fucking machine Dildo 02","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
+{"results":[{"steamUserId":"76561198020520246","steamUserName":"Headcrab Rommel","steamUserLevel":77,"steamUserLargeAvatarId":422,"messageTypeId":1,"messageIsAdult":0,"otherText":"B2","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
