@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198429571153","steamUserName":"寒江城  巴扎黑","steamUserLevel":0,"steamUserLargeAvatarId":22,"messageTypeId":0,"messageIsAdult":1,"otherText":"","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198429571153","steamUserName":"寒江城  巴扎黑","steamUserLevel":6,"steamUserLargeAvatarId":22,"messageTypeId":0,"messageIsAdult":1,"otherText":"","gameName":"Sex_motel","gameId":"2773570"}]}
