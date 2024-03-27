@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199640134757","steamUserName":"ayad.ehab","steamUserLevel":1,"steamUserLargeAvatarId":5,"messageTypeId":1,"messageIsAdult":0,"otherText":"A1","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
+{"results":[{"steamUserId":"76561199640134757","steamUserName":"ayad.ehab","steamUserLevel":1,"steamUserLargeAvatarId":5,"messageTypeId":10,"messageIsAdult":1,"otherText":"Light switcher","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
