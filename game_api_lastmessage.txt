@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199409483071","steamUserName":"雨后再无你","steamUserLevel":0,"steamUserLargeAvatarId":8,"messageTypeId":4,"messageIsAdult":1,"otherText":"jamal","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561199409483071","steamUserName":"雨后再无你","steamUserLevel":0,"steamUserLargeAvatarId":8,"messageTypeId":3,"messageIsAdult":1,"otherText":"jamal","gameName":"Sex_motel","gameId":"2773570"}]}
