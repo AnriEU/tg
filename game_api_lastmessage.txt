@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199661072782","steamUserName":"sitis_dalgren","steamUserLevel":1,"steamUserLargeAvatarId":3,"messageTypeId":6,"messageIsAdult":1,"otherText":"california girl2","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198350835920","steamUserName":"女人终究会影响我打枪","steamUserLevel":25,"steamUserLargeAvatarId":26,"messageTypeId":5,"messageIsAdult":1,"otherText":"albina","gameName":"Sex_motel","gameId":"2773570"}]}
