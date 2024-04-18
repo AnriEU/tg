@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198338388932","steamUserName":"skibidi sigma rizzler","steamUserLevel":0,"steamUserLargeAvatarId":20,"messageTypeId":2,"messageIsAdult":0,"otherText":"naomi","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198338388932","steamUserName":"skibidi sigma rizzler","steamUserLevel":0,"steamUserLargeAvatarId":20,"messageTypeId":8,"messageIsAdult":1,"otherText":"naomi","gameName":"Sex_motel","gameId":"2773570"}]}
