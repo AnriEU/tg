@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561197988212184","steamUserName":"PENETRATOR","steamUserLevel":11,"steamUserLargeAvatarId":40,"messageTypeId":8,"messageIsAdult":1,"otherText":"school girl 1","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561197988212184","steamUserName":"PENETRATOR","steamUserLevel":11,"steamUserLargeAvatarId":40,"messageTypeId":4,"messageIsAdult":1,"otherText":"school girl 1","gameName":"Sex_motel","gameId":"2773570"}]}
