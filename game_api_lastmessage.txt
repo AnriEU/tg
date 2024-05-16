@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198357449323","steamUserName":"EliiasGRG","steamUserLevel":0,"steamUserLargeAvatarId":50,"messageTypeId":1,"messageIsAdult":0,"otherText":"Main hall Second floor","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198357449323","steamUserName":"EliiasGRG","steamUserLevel":0,"steamUserLargeAvatarId":50,"messageTypeId":4,"messageIsAdult":1,"otherText":"Rupert","gameName":"Sex_motel","gameId":"2773570"}]}
