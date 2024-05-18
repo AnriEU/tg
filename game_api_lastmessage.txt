@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198119960643","steamUserName":"밤양갱","steamUserLevel":0,"steamUserLargeAvatarId":3,"messageTypeId":5,"messageIsAdult":1,"otherText":"sasquatch female","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198119960643","steamUserName":"밤양갱","steamUserLevel":0,"steamUserLargeAvatarId":3,"messageTypeId":2,"messageIsAdult":0,"otherText":"anya","gameName":"Sex_motel","gameId":"2773570"}]}
