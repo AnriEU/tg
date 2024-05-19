@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199632930446","steamUserName":"shaheqiyi","steamUserLevel":0,"steamUserLargeAvatarId":3,"messageTypeId":2,"messageIsAdult":0,"otherText":"survivor girl dirt 3","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561199632930446","steamUserName":"shaheqiyi","steamUserLevel":0,"steamUserLargeAvatarId":3,"messageTypeId":2,"messageIsAdult":0,"otherText":"ava","gameName":"Sex_motel","gameId":"2773570"}]}
