@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199622429520","steamUserName":"Whisper85","steamUserLevel":0,"steamUserLargeAvatarId":6,"messageTypeId":10,"messageIsAdult":1,"otherText":"Dildo 07 Coral","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
+{"results":[{"steamUserId":"76561199622429520","steamUserName":"Whisper85","steamUserLevel":0,"steamUserLargeAvatarId":6,"messageTypeId":1,"messageIsAdult":0,"otherText":"B7","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
