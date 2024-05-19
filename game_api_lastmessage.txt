@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198107674158","steamUserName":"mutovin89","steamUserLevel":0,"steamUserLargeAvatarId":8,"messageTypeId":1,"messageIsAdult":0,"otherText":"B2","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
+{"results":[{"steamUserId":"76561198107674158","steamUserName":"mutovin89","steamUserLevel":0,"steamUserLargeAvatarId":8,"messageTypeId":10,"messageIsAdult":1,"otherText":"Anal Explorer Dildo 03","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
