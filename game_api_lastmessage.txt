@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198374419356","steamUserName":"弑神无双斩","steamUserLevel":0,"steamUserLargeAvatarId":6,"messageTypeId":1,"messageIsAdult":0,"otherText":"Detective appointments","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198374419356","steamUserName":"弑神无双斩","steamUserLevel":0,"steamUserLargeAvatarId":6,"messageTypeId":3,"messageIsAdult":1,"otherText":"trevis","gameName":"Sex_motel","gameId":"2773570"}]}
