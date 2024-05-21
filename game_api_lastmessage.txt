@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198046457796","steamUserName":"M0eTaXk","steamUserLevel":0,"steamUserLargeAvatarId":28,"messageTypeId":2,"messageIsAdult":0,"otherText":"ayaka","gameName":"Scifi_builder","gameId":"2438540"}]}
+{"results":[{"steamUserId":"76561198046457796","steamUserName":"M0eTaXk","steamUserLevel":0,"steamUserLargeAvatarId":28,"messageTypeId":2,"messageIsAdult":0,"otherText":"apocalyptic 05","gameName":"Scifi_builder","gameId":"2438540"}]}
