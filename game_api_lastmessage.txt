@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199181521264","steamUserName":"xBoogeyManx420","steamUserLevel":0,"steamUserLargeAvatarId":3,"messageTypeId":1,"messageIsAdult":0,"otherText":"Main hall Second floor","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561199181521264","steamUserName":"xBoogeyManx420","steamUserLevel":0,"steamUserLargeAvatarId":3,"messageTypeId":1,"messageIsAdult":0,"otherText":"Weapon room","gameName":"Sex_motel","gameId":"2773570"}]}
