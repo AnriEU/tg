@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198374085996","steamUserName":"drumslave","steamUserLevel":0,"steamUserLargeAvatarId":22,"messageTypeId":3,"messageIsAdult":1,"otherText":"school girl blood","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198374085996","steamUserName":"drumslave","steamUserLevel":0,"steamUserLargeAvatarId":22,"messageTypeId":2,"messageIsAdult":0,"otherText":"survivor girl 3","gameName":"Sex_motel","gameId":"2773570"}]}
