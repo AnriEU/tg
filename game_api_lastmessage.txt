@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199053699062","steamUserName":"geo","steamUserLevel":3,"steamUserLargeAvatarId":6,"messageTypeId":3,"messageIsAdult":1,"otherText":"survivor girl 2","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
+{"results":[{"steamUserId":"76561199053699062","steamUserName":"geo","steamUserLevel":3,"steamUserLargeAvatarId":6,"messageTypeId":2,"messageIsAdult":0,"otherText":"survivor girl 3","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
