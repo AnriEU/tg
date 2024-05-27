@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561197994434221","steamUserName":"謝哲賢","steamUserLevel":0,"steamUserLargeAvatarId":72,"messageTypeId":1,"messageIsAdult":0,"otherText":"office","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198602369648","steamUserName":"Noob","steamUserLevel":100,"steamUserLargeAvatarId":3,"messageTypeId":10,"messageIsAdult":1,"otherText":"Anal Explorer Dildo 03","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
