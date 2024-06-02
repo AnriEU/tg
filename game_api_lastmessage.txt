@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198158744040","steamUserName":"V0rmu","steamUserLevel":0,"steamUserLargeAvatarId":3,"messageTypeId":1,"messageIsAdult":0,"otherText":"Captains office","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198040276179","steamUserName":"man談侍","steamUserLevel":11,"steamUserLargeAvatarId":6,"messageTypeId":1,"messageIsAdult":0,"otherText":"Fitness hall","gameName":"Sex_motel","gameId":"2773570"}]}
