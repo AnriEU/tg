@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198008195805","steamUserName":"Dux of Earl","steamUserLevel":0,"steamUserLargeAvatarId":82,"messageTypeId":3,"messageIsAdult":1,"otherText":"survivor girl dirt 3","gameName":"Scifi_builder","gameId":"2438540"}]}
+{"results":[{"steamUserId":"76561198008195805","steamUserName":"Dux of Earl","steamUserLevel":0,"steamUserLargeAvatarId":82,"messageTypeId":2,"messageIsAdult":0,"otherText":"thalius","gameName":"Scifi_builder","gameId":"2438540"}]}
