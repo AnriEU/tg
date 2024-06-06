@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198024829950","steamUserName":"\\Gold/Dodo885[FR]","steamUserLevel":13,"steamUserLargeAvatarId":90,"messageTypeId":1,"messageIsAdult":0,"otherText":"office","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561199198086798","steamUserName":"hudamiss77","steamUserLevel":0,"steamUserLargeAvatarId":6,"messageTypeId":0,"messageIsAdult":1,"otherText":"","gameName":"Sex_motel","gameId":"2773570"}]}
