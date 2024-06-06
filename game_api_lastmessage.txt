@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198051611783","steamUserName":"aApp","steamUserLevel":0,"steamUserLargeAvatarId":16,"messageTypeId":2,"messageIsAdult":0,"otherText":"ayaka","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
+{"results":[{"steamUserId":"76561198106899294","steamUserName":"Lola Bunny™","steamUserLevel":0,"steamUserLargeAvatarId":580,"messageTypeId":1,"messageIsAdult":0,"otherText":"Detective appointments","gameName":"Sex_motel","gameId":"2773570"}]}
