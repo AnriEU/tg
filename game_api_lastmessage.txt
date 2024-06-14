@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198929282832","steamUserName":"TeQuilla","steamUserLevel":0,"steamUserLargeAvatarId":148,"messageTypeId":5,"messageIsAdult":1,"otherText":"school girl blood","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198929282832","steamUserName":"TeQuilla","steamUserLevel":0,"steamUserLargeAvatarId":148,"messageTypeId":2,"messageIsAdult":0,"otherText":"pbr female","gameName":"Sex_motel","gameId":"2773570"}]}
