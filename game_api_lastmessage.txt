@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198349710756","steamUserName":"黑Se丶天堂","steamUserLevel":24,"steamUserLargeAvatarId":12,"messageTypeId":2,"messageIsAdult":0,"otherText":"azumyby","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198349710756","steamUserName":"黑Se丶天堂","steamUserLevel":24,"steamUserLargeAvatarId":12,"messageTypeId":1,"messageIsAdult":0,"otherText":"Detective appointments","gameName":"Sex_motel","gameId":"2773570"}]}
