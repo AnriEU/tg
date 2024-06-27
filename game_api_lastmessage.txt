@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199780150399","steamUserName":"Noob","steamUserLevel":100,"steamUserLargeAvatarId":3,"messageTypeId":1,"messageIsAdult":0,"otherText":"A1","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
+{"results":[{"steamUserId":"76561198452378334","steamUserName":"钢炮2017","steamUserLevel":0,"steamUserLargeAvatarId":3,"messageTypeId":0,"messageIsAdult":0,"otherText":"","gameName":"Scifi_builder","gameId":"2438540"}]}
