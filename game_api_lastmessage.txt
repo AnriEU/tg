@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199435510992","steamUserName":"JoJo_H03215","steamUserLevel":3,"steamUserLargeAvatarId":6,"messageTypeId":1,"messageIsAdult":0,"otherText":"A5","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561199435510992","steamUserName":"JoJo_H03215","steamUserLevel":3,"steamUserLargeAvatarId":6,"messageTypeId":2,"messageIsAdult":0,"otherText":"lori","gameName":"Sex_motel","gameId":"2773570"}]}
