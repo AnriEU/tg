@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561197969514548","steamUserName":"Mystic Mayhem","steamUserLevel":122,"steamUserLargeAvatarId":400,"messageTypeId":1,"messageIsAdult":0,"otherText":"Prison cell 03","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561197969514548","steamUserName":"Mystic Mayhem","steamUserLevel":122,"steamUserLargeAvatarId":400,"messageTypeId":1,"messageIsAdult":0,"otherText":"Prison","gameName":"Sex_motel","gameId":"2773570"}]}
