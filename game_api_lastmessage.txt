@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561197969514548","steamUserName":"Mystic Mayhem","steamUserLevel":122,"steamUserLargeAvatarId":400,"messageTypeId":6,"messageIsAdult":1,"otherText":"Hana","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561197969514548","steamUserName":"Mystic Mayhem","steamUserLevel":122,"steamUserLargeAvatarId":400,"messageTypeId":5,"messageIsAdult":1,"otherText":"Hana","gameName":"Sex_motel","gameId":"2773570"}]}
