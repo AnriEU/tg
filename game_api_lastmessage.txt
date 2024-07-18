@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199501994010","steamUserName":"Partyk Rozgwiazda","steamUserLevel":0,"steamUserLargeAvatarId":28,"messageTypeId":9,"messageIsAdult":0,"otherText":"Aisha","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561199274862847","steamUserName":"kevinmani7050","steamUserLevel":0,"steamUserLargeAvatarId":3,"messageTypeId":0,"messageIsAdult":1,"otherText":"","gameName":"Sex_motel","gameId":"2773570"}]}
