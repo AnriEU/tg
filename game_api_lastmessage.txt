@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198998047575","steamUserName":"djkid1990","steamUserLevel":0,"steamUserLargeAvatarId":3,"messageTypeId":1,"messageIsAdult":0,"otherText":"Interrogation room B2","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198257279640","steamUserName":"Gaprira","steamUserLevel":0,"steamUserLargeAvatarId":124,"messageTypeId":1,"messageIsAdult":0,"otherText":"office","gameName":"Sex_motel","gameId":"2773570"}]}
