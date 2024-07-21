@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198410618311","steamUserName":"Marshmello_(PG)","steamUserLevel":5,"steamUserLargeAvatarId":8,"messageTypeId":1,"messageIsAdult":0,"otherText":"Detective appointments","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198030650817","steamUserName":"Come Away Melinda","steamUserLevel":16,"steamUserLargeAvatarId":58,"messageTypeId":3,"messageIsAdult":1,"otherText":"caleb","gameName":"Sex_motel","gameId":"2773570"}]}
