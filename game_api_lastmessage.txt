@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198030650817","steamUserName":"Come Away Melinda","steamUserLevel":16,"steamUserLargeAvatarId":58,"messageTypeId":5,"messageIsAdult":1,"otherText":"caleb","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561199217189664","steamUserName":"蛇ノ目くらまYT","steamUserLevel":0,"steamUserLargeAvatarId":12,"messageTypeId":0,"messageIsAdult":1,"otherText":"","gameName":"Sex_motel","gameId":"2773570"}]}
