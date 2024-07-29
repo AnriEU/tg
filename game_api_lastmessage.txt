@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199132869351","steamUserName":"泡々","steamUserLevel":0,"steamUserLargeAvatarId":16,"messageTypeId":2,"messageIsAdult":0,"otherText":"naked asian","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
+{"results":[{"steamUserId":"76561199132869351","steamUserName":"泡々","steamUserLevel":0,"steamUserLargeAvatarId":16,"messageTypeId":3,"messageIsAdult":1,"otherText":"naked asian","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
