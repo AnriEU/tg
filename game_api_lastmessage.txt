@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198255672555","steamUserName":"Silandyi (rus)","steamUserLevel":0,"steamUserLargeAvatarId":-1,"messageTypeId":2,"messageIsAdult":0,"otherText":"zombie female","gameName":"Scifi_builder","gameId":"2438540"}]}
+{"results":[{"steamUserId":"76561198255672555","steamUserName":"Silandyi (rus)","steamUserLevel":0,"steamUserLargeAvatarId":-1,"messageTypeId":2,"messageIsAdult":0,"otherText":"grey 03","gameName":"Scifi_builder","gameId":"2438540"}]}
