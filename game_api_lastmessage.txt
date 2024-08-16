@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198255672555","steamUserName":"Silandyi (rus)","steamUserLevel":0,"steamUserLargeAvatarId":-1,"messageTypeId":5,"messageIsAdult":1,"otherText":"goblin female","gameName":"Scifi_builder","gameId":"2438540"}]}
+{"results":[{"steamUserId":"76561198255672555","steamUserName":"Silandyi (rus)","steamUserLevel":0,"steamUserLargeAvatarId":-1,"messageTypeId":8,"messageIsAdult":1,"otherText":"goblin female","gameName":"Scifi_builder","gameId":"2438540"}]}
