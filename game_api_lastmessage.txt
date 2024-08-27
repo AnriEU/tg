@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198060905556","steamUserName":"TJThrilla","steamUserLevel":10,"steamUserLargeAvatarId":74,"messageTypeId":4,"messageIsAdult":1,"otherText":"Ghalen","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198060905556","steamUserName":"TJThrilla","steamUserLevel":10,"steamUserLargeAvatarId":74,"messageTypeId":1,"messageIsAdult":0,"otherText":"Captains ofifce","gameName":"Sex_motel","gameId":"2773570"}]}
