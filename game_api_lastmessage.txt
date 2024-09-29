@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199567327695","steamUserName":"ian_mccue2000","steamUserLevel":1,"steamUserLargeAvatarId":3,"messageTypeId":2,"messageIsAdult":0,"otherText":"trevis","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561199567327695","steamUserName":"ian_mccue2000","steamUserLevel":1,"steamUserLargeAvatarId":3,"messageTypeId":1,"messageIsAdult":0,"otherText":"B3","gameName":"Sex_motel","gameId":"2773570"}]}
