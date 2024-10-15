@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198073805048","steamUserName":"RainCast_Fr","steamUserLevel":12,"steamUserLargeAvatarId":412,"messageTypeId":7,"messageIsAdult":1,"otherText":"Hana","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198073805048","steamUserName":"RainCast_Fr","steamUserLevel":12,"steamUserLargeAvatarId":412,"messageTypeId":1,"messageIsAdult":0,"otherText":"office","gameName":"Sex_motel","gameId":"2773570"}]}
