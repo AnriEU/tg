@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198084417294","steamUserName":"Savage-Media","steamUserLevel":0,"steamUserLargeAvatarId":200,"messageTypeId":8,"messageIsAdult":1,"otherText":"albina","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561199156682703","steamUserName":"别把热爱弄丢了","steamUserLevel":3,"steamUserLargeAvatarId":6,"messageTypeId":0,"messageIsAdult":1,"otherText":"","gameName":"Sex_motel","gameId":"2773570"}]}
