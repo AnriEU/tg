@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199544655258","steamUserName":"hgw0319","steamUserLevel":1,"steamUserLargeAvatarId":3,"messageTypeId":6,"messageIsAdult":1,"otherText":"albina","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198257587736","steamUserName":"THE DOG KEEPERS","steamUserLevel":0,"steamUserLargeAvatarId":314,"messageTypeId":0,"messageIsAdult":1,"otherText":"","gameName":"Sex_motel","gameId":"2773570"}]}
