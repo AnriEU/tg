@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199085560315","steamUserName":"Skilww","steamUserLevel":4,"steamUserLargeAvatarId":6,"messageTypeId":10,"messageIsAdult":1,"otherText":"Dildo 05 Dark blue","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
+{"results":[{"steamUserId":"76561199085560315","steamUserName":"Skilww","steamUserLevel":4,"steamUserLargeAvatarId":6,"messageTypeId":1,"messageIsAdult":0,"otherText":"B9","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
