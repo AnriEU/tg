@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199366517440","steamUserName":"e6f84740","steamUserLevel":2,"steamUserLargeAvatarId":3,"messageTypeId":1,"messageIsAdult":0,"otherText":"Interrogation room A2","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198357319659","steamUserName":"tony","steamUserLevel":0,"steamUserLargeAvatarId":20,"messageTypeId":0,"messageIsAdult":1,"otherText":"","gameName":"Sex_motel","gameId":"2773570"}]}
