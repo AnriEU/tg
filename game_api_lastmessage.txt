@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198023116710","steamUserName":"Resident Evil","steamUserLevel":101,"steamUserLargeAvatarId":134,"messageTypeId":1,"messageIsAdult":0,"otherText":"D6","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
+{"results":[{"steamUserId":"76561198023116710","steamUserName":"Resident Evil","steamUserLevel":101,"steamUserLargeAvatarId":134,"messageTypeId":1,"messageIsAdult":0,"otherText":"D8","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
