@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198256743940","steamUserName":"在看一眼就会爆炸","steamUserLevel":0,"steamUserLargeAvatarId":10,"messageTypeId":1,"messageIsAdult":0,"otherText":"Weapon room","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198256743940","steamUserName":"在看一眼就会爆炸","steamUserLevel":0,"steamUserLargeAvatarId":10,"messageTypeId":1,"messageIsAdult":0,"otherText":"Prison","gameName":"Sex_motel","gameId":"2773570"}]}
