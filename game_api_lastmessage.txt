@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198256743940","steamUserName":"在看一眼就会爆炸","steamUserLevel":0,"steamUserLargeAvatarId":10,"messageTypeId":5,"messageIsAdult":1,"otherText":"jamal","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198256743940","steamUserName":"在看一眼就会爆炸","steamUserLevel":0,"steamUserLargeAvatarId":10,"messageTypeId":6,"messageIsAdult":1,"otherText":"Aura","gameName":"Sex_motel","gameId":"2773570"}]}
