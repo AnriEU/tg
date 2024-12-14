@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198959380058","steamUserName":"Damien Desantoine","steamUserLevel":7,"steamUserLargeAvatarId":19,"messageTypeId":1,"messageIsAdult":0,"otherText":"Prison","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198345019963","steamUserName":"RED_28rus","steamUserLevel":0,"steamUserLargeAvatarId":12,"messageTypeId":2,"messageIsAdult":0,"otherText":"ayaka","gameName":"Sex_motel","gameId":"2773570"}]}
