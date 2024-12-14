@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198124939140","steamUserName":"teeroymarshall","steamUserLevel":0,"steamUserLargeAvatarId":3,"messageTypeId":4,"messageIsAdult":1,"otherText":"jamal","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
+{"results":[{"steamUserId":"76561198256743940","steamUserName":"在看一眼就会爆炸","steamUserLevel":0,"steamUserLargeAvatarId":10,"messageTypeId":0,"messageIsAdult":1,"otherText":"","gameName":"Sex_motel","gameId":"2773570"}]}
