@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198048361773","steamUserName":"Joker.1-TM","steamUserLevel":0,"steamUserLargeAvatarId":8,"messageTypeId":1,"messageIsAdult":0,"otherText":"Captains ofifce","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198211043352","steamUserName":"Ghostsquad","steamUserLevel":10,"steamUserLargeAvatarId":246,"messageTypeId":2,"messageIsAdult":0,"otherText":"school girl 2","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
