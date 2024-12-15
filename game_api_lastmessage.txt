@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198211043352","steamUserName":"Ghostsquad","steamUserLevel":10,"steamUserLargeAvatarId":246,"messageTypeId":2,"messageIsAdult":0,"otherText":"school girl blood","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
+{"results":[{"steamUserId":"76561198211043352","steamUserName":"Ghostsquad","steamUserLevel":10,"steamUserLargeAvatarId":246,"messageTypeId":3,"messageIsAdult":1,"otherText":"school girl blood","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
