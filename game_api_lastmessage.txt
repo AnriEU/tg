@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199135299610","steamUserName":"Natsu Dragnir","steamUserLevel":0,"steamUserLargeAvatarId":8,"messageTypeId":1,"messageIsAdult":0,"otherText":"Interrogation room B2","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561199135299610","steamUserName":"Natsu Dragnir","steamUserLevel":0,"steamUserLargeAvatarId":8,"messageTypeId":5,"messageIsAdult":1,"otherText":"Rupert","gameName":"Sex_motel","gameId":"2773570"}]}
