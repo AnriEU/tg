@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199135299610","steamUserName":"Natsu Dragnir","steamUserLevel":0,"steamUserLargeAvatarId":8,"messageTypeId":0,"messageIsAdult":1,"otherText":"","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561199135299610","steamUserName":"Natsu Dragnir","steamUserLevel":0,"steamUserLargeAvatarId":8,"messageTypeId":6,"messageIsAdult":1,"otherText":"Aura","gameName":"Sex_motel","gameId":"2773570"}]}
