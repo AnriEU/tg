@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198374621035","steamUserName":"雷神（いづき）","steamUserLevel":6,"steamUserLargeAvatarId":6,"messageTypeId":0,"messageIsAdult":1,"otherText":"","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198374621035","steamUserName":"雷神（いづき）","steamUserLevel":6,"steamUserLargeAvatarId":6,"messageTypeId":3,"messageIsAdult":1,"otherText":"gabriel","gameName":"Sex_motel","gameId":"2773570"}]}
