@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199484379092","steamUserName":"Arcadia Cowboy","steamUserLevel":0,"steamUserLargeAvatarId":3,"messageTypeId":9,"messageIsAdult":0,"otherText":"Miki","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
+{"results":[{"steamUserId":"76561199484379092","steamUserName":"Arcadia Cowboy","steamUserLevel":0,"steamUserLargeAvatarId":3,"messageTypeId":5,"messageIsAdult":1,"otherText":"pbr female","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
