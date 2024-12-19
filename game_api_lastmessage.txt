@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199634376525","steamUserName":"父をこすり洗いした","steamUserLevel":0,"steamUserLargeAvatarId":24,"messageTypeId":4,"messageIsAdult":1,"otherText":"Hana","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561199634376525","steamUserName":"父をこすり洗いした","steamUserLevel":0,"steamUserLargeAvatarId":24,"messageTypeId":1,"messageIsAdult":0,"otherText":"Interrogation room A1","gameName":"Sex_motel","gameId":"2773570"}]}
