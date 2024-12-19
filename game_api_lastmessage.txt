@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199634376525","steamUserName":"父をこすり洗いした","steamUserLevel":0,"steamUserLargeAvatarId":24,"messageTypeId":3,"messageIsAdult":1,"otherText":"jamal","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561199634376525","steamUserName":"父をこすり洗いした","steamUserLevel":0,"steamUserLargeAvatarId":24,"messageTypeId":2,"messageIsAdult":0,"otherText":"lori","gameName":"Sex_motel","gameId":"2773570"}]}
