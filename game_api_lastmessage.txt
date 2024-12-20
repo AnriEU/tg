@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199123124452","steamUserName":"Movistar John Pork","steamUserLevel":26,"steamUserLargeAvatarId":16,"messageTypeId":1,"messageIsAdult":0,"otherText":"Prison","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561199123124452","steamUserName":"Movistar John Pork","steamUserLevel":26,"steamUserLargeAvatarId":16,"messageTypeId":1,"messageIsAdult":0,"otherText":"Main hall Second floor","gameName":"Sex_motel","gameId":"2773570"}]}
