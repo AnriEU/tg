@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198831384127","steamUserName":"Anarchy","steamUserLevel":0,"steamUserLargeAvatarId":124,"messageTypeId":1,"messageIsAdult":0,"otherText":"Detective appointments","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198831384127","steamUserName":"Anarchy","steamUserLevel":0,"steamUserLargeAvatarId":124,"messageTypeId":5,"messageIsAdult":1,"otherText":"Hana","gameName":"Sex_motel","gameId":"2773570"}]}
