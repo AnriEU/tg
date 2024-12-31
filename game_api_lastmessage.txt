@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198396622557","steamUserName":"Best_Of_All905.TTV","steamUserLevel":0,"steamUserLargeAvatarId":74,"messageTypeId":5,"messageIsAdult":1,"otherText":"lori","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
+{"results":[{"steamUserId":"76561198396622557","steamUserName":"Best_Of_All905.TTV","steamUserLevel":0,"steamUserLargeAvatarId":74,"messageTypeId":8,"messageIsAdult":1,"otherText":"lori","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
