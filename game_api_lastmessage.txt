@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198161862819","steamUserName":"Max Jergens","steamUserLevel":17,"steamUserLargeAvatarId":20,"messageTypeId":2,"messageIsAdult":0,"otherText":"scifi agent naomi","gameName":"Scifi_builder","gameId":"2438540"}]}
+{"results":[{"steamUserId":"76561198161862819","steamUserName":"Max Jergens","steamUserLevel":17,"steamUserLargeAvatarId":20,"messageTypeId":2,"messageIsAdult":0,"otherText":"mercenary female 02","gameName":"Scifi_builder","gameId":"2438540"}]}
