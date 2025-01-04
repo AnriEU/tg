@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199777453905","steamUserName":"kraniec.13.greendragonspirit","steamUserLevel":5,"steamUserLargeAvatarId":3,"messageTypeId":5,"messageIsAdult":1,"otherText":"lori","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561199777453905","steamUserName":"kraniec.13.greendragonspirit","steamUserLevel":5,"steamUserLargeAvatarId":3,"messageTypeId":6,"messageIsAdult":1,"otherText":"lori","gameName":"Sex_motel","gameId":"2773570"}]}
