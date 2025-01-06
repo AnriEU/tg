@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198291209314","steamUserName":"think of the kids","steamUserLevel":0,"steamUserLargeAvatarId":34,"messageTypeId":1,"messageIsAdult":0,"otherText":"office","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198291209314","steamUserName":"think of the kids","steamUserLevel":0,"steamUserLargeAvatarId":34,"messageTypeId":8,"messageIsAdult":1,"otherText":"Hana","gameName":"Sex_motel","gameId":"2773570"}]}
