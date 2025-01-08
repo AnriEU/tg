@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198120229975","steamUserName":"ḥr -  Гор, Хорус","steamUserLevel":0,"steamUserLargeAvatarId":28,"messageTypeId":9,"messageIsAdult":0,"otherText":"Aisha","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198120229975","steamUserName":"ḥr -  Гор, Хорус","steamUserLevel":0,"steamUserLargeAvatarId":28,"messageTypeId":1,"messageIsAdult":0,"otherText":"A5","gameName":"Sex_motel","gameId":"2773570"}]}
