@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198007777317","steamUserName":"benzinster","steamUserLevel":11,"steamUserLargeAvatarId":3,"messageTypeId":2,"messageIsAdult":0,"otherText":"shaman girl","gameName":"Scifi_builder","gameId":"2438540"}]}
+{"results":[{"steamUserId":"76561198007777317","steamUserName":"benzinster","steamUserLevel":11,"steamUserLargeAvatarId":3,"messageTypeId":3,"messageIsAdult":1,"otherText":"shaman girl","gameName":"Scifi_builder","gameId":"2438540"}]}
