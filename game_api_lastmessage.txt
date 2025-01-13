@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561197975477634","steamUserName":"teg4463","steamUserLevel":11,"steamUserLargeAvatarId":3,"messageTypeId":3,"messageIsAdult":1,"otherText":"gabriel","gameName":"Scifi_builder","gameId":"2438540"}]}
+{"results":[{"steamUserId":"76561197975477634","steamUserName":"teg4463","steamUserLevel":11,"steamUserLargeAvatarId":3,"messageTypeId":5,"messageIsAdult":1,"otherText":"gabriel","gameName":"Scifi_builder","gameId":"2438540"}]}
