@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198969485928","steamUserName":"GameSlayerPC","steamUserLevel":21,"steamUserLargeAvatarId":50,"messageTypeId":10,"messageIsAdult":1,"otherText":"Blindfold 03","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
+{"results":[{"steamUserId":"76561199353197261","steamUserName":"drawshyahmed","steamUserLevel":0,"steamUserLargeAvatarId":6,"messageTypeId":0,"messageIsAdult":1,"otherText":"","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
