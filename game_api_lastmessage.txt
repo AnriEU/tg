@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198253685905","steamUserName":"Paweł 91 [90km/h]","steamUserLevel":0,"steamUserLargeAvatarId":6,"messageTypeId":3,"messageIsAdult":1,"otherText":"albina","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
+{"results":[{"steamUserId":"76561199520587637","steamUserName":"Punnz","steamUserLevel":100,"steamUserLargeAvatarId":3,"messageTypeId":6,"messageIsAdult":1,"otherText":"Aura","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
