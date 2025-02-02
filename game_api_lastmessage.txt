@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198323577903","steamUserName":"死前微笑的火柴人","steamUserLevel":0,"steamUserLargeAvatarId":22,"messageTypeId":5,"messageIsAdult":1,"otherText":"jamal","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198072308704","steamUserName":"max.klaus","steamUserLevel":8,"steamUserLargeAvatarId":3,"messageTypeId":3,"messageIsAdult":1,"otherText":"sheena","gameName":"Sex_motel","gameId":"2773570"}]}
