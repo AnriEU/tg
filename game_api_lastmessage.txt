@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199023752879","steamUserName":"wrfxwziq5jt4cb006r6h","steamUserLevel":0,"steamUserLargeAvatarId":3,"messageTypeId":4,"messageIsAdult":1,"otherText":"ayaka","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198958511746","steamUserName":"Whysoweak0481","steamUserLevel":0,"steamUserLargeAvatarId":12,"messageTypeId":0,"messageIsAdult":1,"otherText":"","gameName":"Sex_motel","gameId":"2773570"}]}
