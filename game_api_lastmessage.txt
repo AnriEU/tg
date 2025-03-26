@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198044917813","steamUserName":"Laoch","steamUserLevel":24,"steamUserLargeAvatarId":50,"messageTypeId":2,"messageIsAdult":0,"otherText":"tory2","gameName":"Scifi_builder","gameId":"2438540"}]}
+{"results":[{"steamUserId":"76561198044917813","steamUserName":"Laoch","steamUserLevel":24,"steamUserLargeAvatarId":50,"messageTypeId":2,"messageIsAdult":0,"otherText":"iselda2","gameName":"Scifi_builder","gameId":"2438540"}]}
