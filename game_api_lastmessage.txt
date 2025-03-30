@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199841520542","steamUserName":"jogosalternativos1","steamUserLevel":1,"steamUserLargeAvatarId":5,"messageTypeId":6,"messageIsAdult":1,"otherText":"Aisha","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561199841520542","steamUserName":"jogosalternativos1","steamUserLevel":1,"steamUserLargeAvatarId":5,"messageTypeId":9,"messageIsAdult":0,"otherText":"Rupert","gameName":"Sex_motel","gameId":"2773570"}]}
