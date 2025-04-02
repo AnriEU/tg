@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198413532327","steamUserName":"MystianPrincess","steamUserLevel":64,"steamUserLargeAvatarId":56,"messageTypeId":1,"messageIsAdult":0,"otherText":"Weapon room","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198413532327","steamUserName":"MystianPrincess","steamUserLevel":64,"steamUserLargeAvatarId":56,"messageTypeId":9,"messageIsAdult":0,"otherText":"Aura","gameName":"Sex_motel","gameId":"2773570"}]}
