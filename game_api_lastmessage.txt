@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198011806676","steamUserName":"hufnagl.josef","steamUserLevel":0,"steamUserLargeAvatarId":36,"messageTypeId":2,"messageIsAdult":0,"otherText":"giant","gameName":"Scifi_builder","gameId":"2438540"}]}
+{"results":[{"steamUserId":"76561198011806676","steamUserName":"hufnagl.josef","steamUserLevel":0,"steamUserLargeAvatarId":36,"messageTypeId":0,"messageIsAdult":1,"otherText":"","gameName":"Sex_motel","gameId":"2773570"}]}
