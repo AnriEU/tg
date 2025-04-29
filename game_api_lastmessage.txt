@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198958978668","steamUserName":"Luger code V2","steamUserLevel":0,"steamUserLargeAvatarId":96,"messageTypeId":1,"messageIsAdult":0,"otherText":"A5","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
+{"results":[{"steamUserId":"76561198958978668","steamUserName":"Luger code V2","steamUserLevel":0,"steamUserLargeAvatarId":96,"messageTypeId":9,"messageIsAdult":0,"otherText":"Levi","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
