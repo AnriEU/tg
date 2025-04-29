@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198958978668","steamUserName":"Luger code V2","steamUserLevel":0,"steamUserLargeAvatarId":96,"messageTypeId":4,"messageIsAdult":1,"otherText":"Aisha","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
+{"results":[{"steamUserId":"76561198958978668","steamUserName":"Luger code V2","steamUserLevel":0,"steamUserLargeAvatarId":96,"messageTypeId":10,"messageIsAdult":1,"otherText":"Ball Gag Deluxe","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
