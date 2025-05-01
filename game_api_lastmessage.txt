@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199051353658","steamUserName":"Luisinho","steamUserLevel":0,"steamUserLargeAvatarId":28,"messageTypeId":7,"messageIsAdult":1,"otherText":"Hana","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561199579843380","steamUserName":"Goldberg","steamUserLevel":100,"steamUserLargeAvatarId":3,"messageTypeId":2,"messageIsAdult":0,"otherText":"survivor girl dirt 2","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
