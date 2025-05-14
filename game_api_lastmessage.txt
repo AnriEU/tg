@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198057770882","steamUserName":"Byzantine the Underdog","steamUserLevel":53,"steamUserLargeAvatarId":398,"messageTypeId":5,"messageIsAdult":1,"otherText":"Hana","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198057770882","steamUserName":"Byzantine the Underdog","steamUserLevel":53,"steamUserLargeAvatarId":398,"messageTypeId":3,"messageIsAdult":1,"otherText":"jamal","gameName":"Sex_motel","gameId":"2773570"}]}
