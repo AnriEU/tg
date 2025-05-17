@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198023059237","steamUserName":"death76","steamUserLevel":0,"steamUserLargeAvatarId":8,"messageTypeId":3,"messageIsAdult":1,"otherText":"samurai female 3","gameName":"Scifi_builder","gameId":"2438540"}]}
+{"results":[{"steamUserId":"76561198023059237","steamUserName":"death76","steamUserLevel":0,"steamUserLargeAvatarId":8,"messageTypeId":2,"messageIsAdult":0,"otherText":"wizard nude","gameName":"Scifi_builder","gameId":"2438540"}]}
