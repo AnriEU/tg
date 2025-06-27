@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198011619773","steamUserName":"Ereglath Lindufea","steamUserLevel":72,"steamUserLargeAvatarId":78,"messageTypeId":8,"messageIsAdult":1,"otherText":"aloy nora","gameName":"Scifi_builder","gameId":"2438540"}]}
+{"results":[{"steamUserId":"76561198011619773","steamUserName":"Ereglath Lindufea","steamUserLevel":72,"steamUserLargeAvatarId":78,"messageTypeId":4,"messageIsAdult":1,"otherText":"aloy nora","gameName":"Scifi_builder","gameId":"2438540"}]}
