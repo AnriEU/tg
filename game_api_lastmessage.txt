@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198820049747","steamUserName":"Zardoz1","steamUserLevel":5,"steamUserLargeAvatarId":6,"messageTypeId":0,"messageIsAdult":0,"otherText":"","gameName":"Scifi_builder","gameId":"2438540"}]}
+{"results":[{"steamUserId":"76561198820049747","steamUserName":"Zardoz1","steamUserLevel":5,"steamUserLargeAvatarId":6,"messageTypeId":9,"messageIsAdult":0,"otherText":"woman nun","gameName":"Scifi_builder","gameId":"2438540"}]}
