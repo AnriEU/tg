@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198034711123","steamUserName":"WOLFEN THE KING","steamUserLevel":0,"steamUserLargeAvatarId":30,"messageTypeId":2,"messageIsAdult":0,"otherText":"daemon asmodeus","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
+{"results":[{"steamUserId":"76561198034711123","steamUserName":"WOLFEN THE KING","steamUserLevel":0,"steamUserLargeAvatarId":30,"messageTypeId":5,"messageIsAdult":1,"otherText":"daemon asmodeus","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
