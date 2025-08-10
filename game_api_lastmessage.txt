@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198010958997","steamUserName":"Chaxster","steamUserLevel":0,"steamUserLargeAvatarId":38,"messageTypeId":2,"messageIsAdult":0,"otherText":"cosmo dog","gameName":"Scifi_builder","gameId":"2438540"}]}
+{"results":[{"steamUserId":"76561198010958997","steamUserName":"Chaxster","steamUserLevel":0,"steamUserLargeAvatarId":38,"messageTypeId":3,"messageIsAdult":1,"otherText":"cosmo dog","gameName":"Scifi_builder","gameId":"2438540"}]}
