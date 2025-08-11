@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561197997222032","steamUserName":"Blue Fish","steamUserLevel":0,"steamUserLargeAvatarId":12,"messageTypeId":2,"messageIsAdult":0,"otherText":"robot saw 04","gameName":"Scifi_builder","gameId":"2438540"}]}
+{"results":[{"steamUserId":"76561197997222032","steamUserName":"Blue Fish","steamUserLevel":0,"steamUserLargeAvatarId":12,"messageTypeId":6,"messageIsAdult":1,"otherText":"robot saw 04","gameName":"Scifi_builder","gameId":"2438540"}]}
