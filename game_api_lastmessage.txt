@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198440408756","steamUserName":"Voyage -","steamUserLevel":6,"steamUserLargeAvatarId":5,"messageTypeId":1,"messageIsAdult":0,"otherText":"Prison cell 03","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561199153392428","steamUserName":"lichking.xd","steamUserLevel":0,"steamUserLargeAvatarId":16,"messageTypeId":0,"messageIsAdult":1,"otherText":"","gameName":"Sex_motel","gameId":"2773570"}]}
