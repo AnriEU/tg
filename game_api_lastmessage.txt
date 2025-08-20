@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561197991793731","steamUserName":"☢☣►SEBAHAKER◄☣☢","steamUserLevel":41,"steamUserLargeAvatarId":218,"messageTypeId":3,"messageIsAdult":1,"otherText":"daemon girl","gameName":"Scifi_builder","gameId":"2438540"}]}
+{"results":[{"steamUserId":"76561199153392428","steamUserName":"lichking.xd","steamUserLevel":0,"steamUserLargeAvatarId":16,"messageTypeId":0,"messageIsAdult":1,"otherText":"","gameName":"Sex_motel","gameId":"2773570"}]}
