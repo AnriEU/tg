@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198323953965","steamUserName":"✪ Alfi Jr.","steamUserLevel":0,"steamUserLargeAvatarId":70,"messageTypeId":4,"messageIsAdult":1,"otherText":"Hana","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198038761462","steamUserName":"hero_liutao","steamUserLevel":0,"steamUserLargeAvatarId":3,"messageTypeId":1,"messageIsAdult":0,"otherText":"Front desk","gameName":"Sex_motel","gameId":"2773570"}]}
