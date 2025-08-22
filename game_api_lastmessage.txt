@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198158997014","steamUserName":"JorgeGodos79","steamUserLevel":0,"steamUserLargeAvatarId":12,"messageTypeId":0,"messageIsAdult":1,"otherText":"","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198298537306","steamUserName":"Noob","steamUserLevel":100,"steamUserLargeAvatarId":3,"messageTypeId":1,"messageIsAdult":0,"otherText":"C1","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
