@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199121137156","steamUserName":"DZ-〖缔造者〗夔牛","steamUserLevel":0,"steamUserLargeAvatarId":22,"messageTypeId":1,"messageIsAdult":0,"otherText":"Interrogation room B2","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561199571293556","steamUserName":"Goldberg","steamUserLevel":100,"steamUserLargeAvatarId":3,"messageTypeId":0,"messageIsAdult":1,"otherText":"","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
