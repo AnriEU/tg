@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198121527669","steamUserName":"Apocos1","steamUserLevel":0,"steamUserLargeAvatarId":32,"messageTypeId":3,"messageIsAdult":1,"otherText":"elf paladin","gameName":"Scifi_builder","gameId":"2438540"}]}
+{"results":[{"steamUserId":"76561198121527669","steamUserName":"Apocos1","steamUserLevel":0,"steamUserLargeAvatarId":32,"messageTypeId":2,"messageIsAdult":0,"otherText":"nathaniel","gameName":"Scifi_builder","gameId":"2438540"}]}
