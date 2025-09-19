@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199854941027","steamUserName":"12686123","steamUserLevel":1,"steamUserLargeAvatarId":3,"messageTypeId":1,"messageIsAdult":0,"otherText":"Detective appointments","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198095327500","steamUserName":"Game Shakers.TV","steamUserLevel":0,"steamUserLargeAvatarId":52,"messageTypeId":0,"messageIsAdult":0,"otherText":"","gameName":"Scifi_builder","gameId":"2438540"}]}
