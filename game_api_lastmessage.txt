@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198007450174","steamUserName":"xitarg","steamUserLevel":13,"steamUserLargeAvatarId":12,"messageTypeId":3,"messageIsAdult":1,"otherText":"arkham harley quinn","gameName":"Scifi_builder","gameId":"2438540"}]}
+{"results":[{"steamUserId":"76561198970963761","steamUserName":"北葵向阳，南栀倾帆","steamUserLevel":0,"steamUserLargeAvatarId":10,"messageTypeId":0,"messageIsAdult":1,"otherText":"","gameName":"Sex_motel","gameId":"2773570"}]}
