@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198832175192","steamUserName":"ikar1992dvr","steamUserLevel":8,"steamUserLargeAvatarId":8,"messageTypeId":1,"messageIsAdult":0,"otherText":"Detective appointments","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198155397210","steamUserName":"Lawliet","steamUserLevel":0,"steamUserLargeAvatarId":12,"messageTypeId":5,"messageIsAdult":1,"otherText":"lori","gameName":"Sex_motel","gameId":"2773570"}]}
