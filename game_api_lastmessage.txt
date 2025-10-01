@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198996062265","steamUserName":"西八妳啊罵","steamUserLevel":6,"steamUserLargeAvatarId":30,"messageTypeId":9,"messageIsAdult":0,"otherText":"Aisha","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198996062265","steamUserName":"西八妳啊罵","steamUserLevel":6,"steamUserLargeAvatarId":30,"messageTypeId":5,"messageIsAdult":1,"otherText":"aroon","gameName":"Sex_motel","gameId":"2773570"}]}
