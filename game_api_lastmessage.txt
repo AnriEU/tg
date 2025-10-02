@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199063389380","steamUserName":"Reckless Bossman","steamUserLevel":0,"steamUserLargeAvatarId":3,"messageTypeId":0,"messageIsAdult":0,"otherText":"","gameName":"Scifi_builder","gameId":"2438540"}]}
+{"results":[{"steamUserId":"76561199063389380","steamUserName":"Reckless Bossman","steamUserLevel":4,"steamUserLargeAvatarId":3,"messageTypeId":0,"messageIsAdult":0,"otherText":"","gameName":"Scifi_builder","gameId":"2438540"}]}
