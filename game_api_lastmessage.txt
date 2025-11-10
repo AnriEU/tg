@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199477494594","steamUserName":"电脑玩家Carter","steamUserLevel":18,"steamUserLargeAvatarId":544,"messageTypeId":5,"messageIsAdult":1,"otherText":"Hina","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561199426852547","steamUserName":"gyouyuchun4465","steamUserLevel":0,"steamUserLargeAvatarId":3,"messageTypeId":0,"messageIsAdult":1,"otherText":"","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
