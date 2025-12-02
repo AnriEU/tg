@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198052495218","steamUserName":"Kainus Rise","steamUserLevel":0,"steamUserLargeAvatarId":12,"messageTypeId":3,"messageIsAdult":1,"otherText":"ayaka","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198052495218","steamUserName":"Kainus Rise","steamUserLevel":0,"steamUserLargeAvatarId":12,"messageTypeId":6,"messageIsAdult":1,"otherText":"Miki","gameName":"Sex_motel","gameId":"2773570"}]}
