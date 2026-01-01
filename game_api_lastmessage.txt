@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198014313154","steamUserName":"^0Wolfslord ^1Wolfen","steamUserLevel":0,"steamUserLargeAvatarId":44,"messageTypeId":2,"messageIsAdult":0,"otherText":"dragon dog","gameName":"Scifi_builder","gameId":"2438540"}]}
+{"results":[{"steamUserId":"76561198014313154","steamUserName":"^0Wolfslord ^1Wolfen","steamUserLevel":0,"steamUserLargeAvatarId":44,"messageTypeId":2,"messageIsAdult":0,"otherText":"hellhound","gameName":"Scifi_builder","gameId":"2438540"}]}
