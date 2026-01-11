@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198881659232","steamUserName":"Ⓩ₳ⒸⒽ€Ⓜ","steamUserLevel":0,"steamUserLargeAvatarId":8,"messageTypeId":3,"messageIsAdult":1,"otherText":"exo alien female","gameName":"Scifi_builder","gameId":"2438540"}]}
+{"results":[{"steamUserId":"76561198881659232","steamUserName":"Ⓩ₳ⒸⒽ€Ⓜ","steamUserLevel":0,"steamUserLargeAvatarId":8,"messageTypeId":2,"messageIsAdult":0,"otherText":"michael2","gameName":"Scifi_builder","gameId":"2438540"}]}
