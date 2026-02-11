@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561197999823737","steamUserName":"🐲 Goku 🐲","steamUserLevel":115,"steamUserLargeAvatarId":132,"messageTypeId":0,"messageIsAdult":1,"otherText":"","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561197999823737","steamUserName":"🐲 Goku 🐲","steamUserLevel":115,"steamUserLargeAvatarId":132,"messageTypeId":1,"messageIsAdult":0,"otherText":"Interrogation room A1","gameName":"Sex_motel","gameId":"2773570"}]}
