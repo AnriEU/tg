@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561197999823737","steamUserName":"🐲 Goku 🐲","steamUserLevel":115,"steamUserLargeAvatarId":132,"messageTypeId":6,"messageIsAdult":1,"otherText":"Miki","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561197999823737","steamUserName":"🐲 Goku 🐲","steamUserLevel":115,"steamUserLargeAvatarId":132,"messageTypeId":5,"messageIsAdult":1,"otherText":"Miki","gameName":"Sex_motel","gameId":"2773570"}]}
