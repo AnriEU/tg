@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198395811074","steamUserName":"NIPonLOAN","steamUserLevel":0,"steamUserLargeAvatarId":8,"messageTypeId":2,"messageIsAdult":0,"otherText":"trevis","gameName":"Scifi_builder","gameId":"2438540"}]}
+{"results":[{"steamUserId":"76561198395811074","steamUserName":"NIPonLOAN","steamUserLevel":0,"steamUserLargeAvatarId":8,"messageTypeId":2,"messageIsAdult":0,"otherText":"ayaka","gameName":"Scifi_builder","gameId":"2438540"}]}
