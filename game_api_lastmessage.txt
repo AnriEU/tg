@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198759482856","steamUserName":"Goldberg","steamUserLevel":100,"steamUserLargeAvatarId":3,"messageTypeId":3,"messageIsAdult":1,"otherText":"ancient tribal goddess","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
+{"results":[{"steamUserId":"76561199161639935","steamUserName":"thomaskoehler","steamUserLevel":0,"steamUserLargeAvatarId":3,"messageTypeId":3,"messageIsAdult":1,"otherText":"school girl dirt 1","gameName":"Sex_motel","gameId":"2773570"}]}
