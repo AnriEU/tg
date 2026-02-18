@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199161639935","steamUserName":"thomaskoehler","steamUserLevel":0,"steamUserLargeAvatarId":3,"messageTypeId":2,"messageIsAdult":0,"otherText":"school girl dirt 1","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561199161639935","steamUserName":"thomaskoehler","steamUserLevel":0,"steamUserLargeAvatarId":3,"messageTypeId":8,"messageIsAdult":1,"otherText":"school girl dirt 1","gameName":"Sex_motel","gameId":"2773570"}]}
