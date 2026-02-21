@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198944121034","steamUserName":"DragonSly22.SKINS","steamUserLevel":0,"steamUserLargeAvatarId":184,"messageTypeId":6,"messageIsAdult":1,"otherText":"Miki","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198101090218","steamUserName":"cvv123456","steamUserLevel":0,"steamUserLargeAvatarId":3,"messageTypeId":0,"messageIsAdult":1,"otherText":"","gameName":"Sex_motel","gameId":"2773570"}]}
