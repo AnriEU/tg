@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198040566169","steamUserName":"PuckElf","steamUserLevel":0,"steamUserLargeAvatarId":-1,"messageTypeId":10,"messageIsAdult":1,"otherText":"Ball Gag Deluxe","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
+{"results":[{"steamUserId":"76561198040566169","steamUserName":"PuckElf","steamUserLevel":0,"steamUserLargeAvatarId":-1,"messageTypeId":8,"messageIsAdult":1,"otherText":"albina","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
