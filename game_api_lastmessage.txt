@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198001766462","steamUserName":"TT:SwissRetroNerd","steamUserLevel":0,"steamUserLargeAvatarId":26,"messageTypeId":1,"messageIsAdult":0,"otherText":"B3","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
+{"results":[{"steamUserId":"76561199006851279","steamUserName":"2817457934","steamUserLevel":0,"steamUserLargeAvatarId":6,"messageTypeId":1,"messageIsAdult":0,"otherText":"Main hall Second floor","gameName":"Sex_motel","gameId":"2773570"}]}
