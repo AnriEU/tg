@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199443635065","steamUserName":"your mothers machine battery","steamUserLevel":0,"steamUserLargeAvatarId":917,"messageTypeId":4,"messageIsAdult":1,"otherText":"albina","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
+{"results":[{"steamUserId":"76561199443635065","steamUserName":"your mothers machine battery","steamUserLevel":0,"steamUserLargeAvatarId":917,"messageTypeId":2,"messageIsAdult":0,"otherText":"lori","gameName":"Cyberpunk_sex","gameId":"2681100"}]}
