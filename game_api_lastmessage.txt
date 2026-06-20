@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198979238223","steamUserName":"hyungju482","steamUserLevel":4,"steamUserLargeAvatarId":3,"messageTypeId":5,"messageIsAdult":1,"otherText":"hana","gameName":"Scifi_builder","gameId":"2438540"}]}
+{"results":[{"steamUserId":"76561198979238223","steamUserName":"hyungju482","steamUserLevel":4,"steamUserLargeAvatarId":3,"messageTypeId":2,"messageIsAdult":0,"otherText":"scifi soldier 01","gameName":"Scifi_builder","gameId":"2438540"}]}
