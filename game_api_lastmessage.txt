@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199812067029","steamUserName":"rwby-smity","steamUserLevel":3,"steamUserLargeAvatarId":3,"messageTypeId":1,"messageIsAdult":0,"otherText":"Captains office","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198679181796","steamUserName":"PinkyMontilia","steamUserLevel":0,"steamUserLargeAvatarId":6,"messageTypeId":0,"messageIsAdult":0,"otherText":"","gameName":"Scifi_builder","gameId":"2438540"}]}
