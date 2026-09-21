@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198023116710","steamUserName":"Resident Evil","steamUserLevel":118,"steamUserLargeAvatarId":182,"messageTypeId":1,"messageIsAdult":0,"otherText":"Fitness hall","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198041448963","steamUserName":"loudly_screaming","steamUserLevel":0,"steamUserLargeAvatarId":12,"messageTypeId":0,"messageIsAdult":1,"otherText":"","gameName":"Sex_motel","gameId":"2773570"}]}
