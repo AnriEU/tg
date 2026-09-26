@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561199304583481","steamUserName":"-Lost-Joker-","steamUserLevel":14,"steamUserLargeAvatarId":18,"messageTypeId":6,"messageIsAdult":1,"otherText":"moon bug","gameName":"Scifi_builder","gameId":"2438540"}]}
+{"results":[{"steamUserId":"76561199304583481","steamUserName":"-Lost-Joker-","steamUserLevel":14,"steamUserLargeAvatarId":18,"messageTypeId":2,"messageIsAdult":0,"otherText":"kurt","gameName":"Scifi_builder","gameId":"2438540"}]}
