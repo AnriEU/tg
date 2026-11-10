@@ -1,1 +1,1 @@
-{"results":[{"steamUserId":"76561198669210077","steamUserName":"lyhz03011","steamUserLevel":0,"steamUserLargeAvatarId":3,"messageTypeId":1,"messageIsAdult":0,"otherText":"Interrogation room A1","gameName":"Sex_motel","gameId":"2773570"}]}
+{"results":[{"steamUserId":"76561198061292925","steamUserName":"Big M","steamUserLevel":0,"steamUserLargeAvatarId":116,"messageTypeId":0,"messageIsAdult":0,"otherText":"","gameName":"Scifi_builder","gameId":"2438540"}]}
